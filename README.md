@@ -6,5 +6,5 @@ Follow these instructions to setup and run the project on your local machine.
 
 # Frontend Setup(React.js)
 1. Navigate to the frontend directory:
-   cd frontend
+cd frontend
 
