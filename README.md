@@ -111,7 +111,11 @@ Contributions are welcome! Follow these steps to contribute:
 
 5. Open a Pull Request.
 
-# Contact 
+📧 Contact 
 - Developer:[Feni Bhuva](https://example.com)
 
 - Github:[@Feni16](https://example.com)
+
+# Thank You!
+Thank you for checking out Capstone-Portal! If you find it useful, don’t forget to ⭐ the repository.
+
