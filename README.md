@@ -22,6 +22,10 @@ Follow these instructions to setup and run the project on your local machine.
     ```bash
     npm run dev
     ```
+4. Access the frontend at:
 
+   ```bash
+   http://localhost:5173
+   ```
 
 
