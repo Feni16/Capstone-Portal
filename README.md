@@ -1,7 +1,7 @@
-# Capstone-Portal
+# 🚀 Capstone-Portal
 The Capstone Project Management System (CPMS) is a web-based platform designed to streamline the management, tracking, and evaluation of capstone projects for students, guides, and coordinators. It centralizes project-related activities, enhances communication, and ensures efficient workflow management.
 
-# Project Setup
+# 🛠️ Project Setup
 Follow these instructions to setup and run the project on your local machine.
 
 # Frontend Setup(React.js)
@@ -60,7 +60,7 @@ Follow these instructions to setup and run the project on your local machine.
    http://localhost:5173/
    ```
 
-# Project Structure
+# 📂 Project Structure
 <pre><code>```bash Capstone-Portal/ 
       ├── frontend/ # React.js frontend 
       │ ├── src/ # Source code 
@@ -72,7 +72,7 @@ Follow these instructions to setup and run the project on your local machine.
       └── README.md # Project documentation```</code></pre>
 
 
-# Technologies Used
+# ⚙️ Technologies Used
 Frontend:
 - React.js
 - HTML, CSS, JavaScript
@@ -87,7 +87,7 @@ Tools:
 - Visual Studio Code / IntelliJ IDEA
 - Postman for API testing
 
-# Contributing
+# 🌟 Contributing
 Contributions are welcome! Follow these steps to contribute:
 
 1. Fork the repository.
@@ -111,7 +111,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 5. Open a Pull Request.
 
-📧 Contact 
+# 📧 Contact 
 - Developer:[Feni Bhuva](https://example.com)
 
 - Github:[@Feni16](https://example.com)
