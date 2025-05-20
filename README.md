@@ -59,4 +59,32 @@ Follow these instructions to setup and run the project on your local machine.
    ```bash
    http://localhost:5173/
    ```
-   
+
+# Project Structure
+Capstone-Portal/
+├── frontend/       # React.js frontend
+│   ├── src/        # Source code
+│   ├── public/     # Static files
+│   ├── package.json
+│   └── ...         
+├── backend/        # Spring Boot backend
+│   ├── src/        # Source code
+│   ├── pom.xml     # Maven configuration
+│   └── ...
+└── README.md       # Project documentation
+
+
+# Technologies Used
+Frontend:
+- React.js
+- HTML, CSS, JavaScript
+- Axios for API communication
+  
+Backend:
+- Spring Boot
+- Java
+- Maven
+  
+Tools:
+- Visual Studio Code / IntelliJ IDEA
+- Postman for API testing
