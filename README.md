@@ -61,16 +61,15 @@ Follow these instructions to setup and run the project on your local machine.
    ```
 
 # Project Structure
- Capstone-Portal/ 
+<pre><code>```bash Capstone-Portal/ 
       ├── frontend/ # React.js frontend 
       │ ├── src/ # Source code 
       │ ├── public/ # Static files 
       │ └── package.json # Project config 
-    
       ├── backend/ # Spring Boot backend 
       │ ├── src/ # Source code 
       │ └── pom.xml # Maven configuration 
-      └── README.md # Project documentation 
+      └── README.md # Project documentation```</code></pre>
 
 
 # Technologies Used
