@@ -38,5 +38,3 @@ Follow these instructions to setup and run the project on your local machine.
 - Set your **username** and **password** for the database.
 - Create the required database.
 
-3. 
-
