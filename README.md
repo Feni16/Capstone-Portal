@@ -8,5 +8,5 @@ Follow these instructions to setup and run the project on your local machine.
 1. Navigate to the frontend directory:
  ```bash
     cd frontend
-    ```
+ 
 
