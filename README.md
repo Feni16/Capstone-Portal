@@ -6,18 +6,22 @@ Follow these instructions to setup and run the project on your local machine.
 
 # Frontend Setup(React.js)
 1. Navigate to the frontend directory:
- ```bash
+
+    ```bash
     cd frontend
+    ```
+
 2. Install dependencies:
-```bash
-   npm install
-```
+
+    ```bash
+    npm install
+    ```
+
 3. Start the development server:
-```bash
-   npm run dev
-4. Access the frontend at:
-```bash
- http://localhost:3000
+
+    ```bash
+    npm run dev
+    ```
 
 
 
