@@ -1,1 +1,1 @@
-
+The Capstone Project Management System (CPMS) is a web-based platform designed to streamline the management, tracking, and evaluation of capstone projects for students, guides, and coordinators. It centralizes project-related activities, enhances communication, and ensures efficient workflow management.
