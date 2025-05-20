@@ -86,3 +86,31 @@ Backend:
 Tools:
 - Visual Studio Code / IntelliJ IDEA
 - Postman for API testing
+
+# Contributing
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+   
+3. Make your changes and commit:
+
+   ```bash
+   git commit -m "Add YourFeatureName"
+   ```
+
+4. Push the changes:
+
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+
+5. Open a Pull Request.
+
+# Contact 
+- Developer:Feni Bhuva
+- Github:@Feni16
