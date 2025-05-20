@@ -27,5 +27,16 @@ Follow these instructions to setup and run the project on your local machine.
    ```bash
    http://localhost:5173
    ```
+# Backend Setup(Spring Boot)
+1. Navigate to the backend directory:
 
+   ```bash
+   cd backend
+   ```
+
+2. Update the database credentials in application.properties:
+- Set your **username** and **password** for the database.
+- Create the required database.
+
+3. 
 
