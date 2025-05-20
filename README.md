@@ -112,5 +112,6 @@ Contributions are welcome! Follow these steps to contribute:
 5. Open a Pull Request.
 
 # Contact 
-- Developer:Feni Bhuva
-- Github:@Feni16
+[Aditya Mishra](https://example.com)
+
+[@adimishra16](https://example.com)
